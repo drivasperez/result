@@ -1,0 +1,19 @@
+{
+  "name": "result-ts",
+  "version": "0.0.1",
+  "description": "A basic implementation of a Rust-style Result type in TypeScript",
+  "main": "index.js",
+  "author": "Daniel Rivas Perez",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "@types/jest": "24.0.15",
+    "@typescript-eslint/eslint-plugin": "1.10.2",
+    "@typescript-eslint/parser": "1.10.2",
+    "jest": "24.8.0",
+    "ts-jest": "24.0.2",
+    "typescript": "3.5.2"
+  }
+}
