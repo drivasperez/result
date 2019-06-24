@@ -2,7 +2,8 @@
   "name": "result-ts",
   "version": "0.0.1",
   "description": "A basic implementation of a Rust-style Result type in TypeScript",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "author": "Daniel Rivas Perez",
   "license": "MIT",
   "scripts": {
